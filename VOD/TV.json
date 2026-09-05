@@ -1,18 +1,6 @@
 {
     "sites": [
         {
-            "name": "厂长资源",
-            "type": 3,
-            "api": "csp_czzy",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/czzy.js"
-        },
-        {
-            "name": "fmovies",
-            "type": 3,
-            "api": "csp_fmovies",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/fmovies.js"
-        },
-        {
             "name": "哔滴影视",
             "type": 3,
             "api": "csp_bde4",
@@ -28,19 +16,7 @@
             "name": "在线之家", 
             "type": 3, 
             "api": "csp_Zxzj",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/zxzj.js"
-        },
-        { 
-            "name": "LIBVIO", 
-            "type": 3, 
-            "api": "csp_libvio",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/libvio.js"
-        },
-         { 
-            "name": "ギリギリ动漫", 
-            "type": 3, 
-            "api": "csp_ai",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ai.js"
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/zxzj.js"
         },
         { 
             "name": "独播库", 
@@ -59,12 +35,6 @@
             "type": 3,
             "api": "csp_4kav",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
-        },
-        {
-            "name": "韓劇看看",
-            "type": 3,
-            "api": "csp_hjkk",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js"
         },
         {
             "name": "金牌影院",
@@ -109,34 +79,10 @@
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ystt.js"
         },
         {
-            "name": "小蘋果",
-            "type": 3,
-            "api": "csp_apple",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
-        },
-        {
-            "name": "嗷嗚動漫",
-            "type": 3,
-            "api": "csp_aowu",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/aowu.js"
-        },
-        {
-            "name": "小紅影視",
-            "type": 3,
-            "api": "csp_xiaohys",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xiaohys.js"
-        },
-        {
             "name": "荐片",
             "type": 3,
             "api": "csp_jianpian",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/jianpian.js"
-        },
-        {
-            "name": "人人",
-            "type": 3,
-            "api": "csp_rrmj",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/rrmj.js"
         },
         {
             "name": "anime1",
@@ -145,22 +91,40 @@
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/anime1.js"
         },
         {
-            "name": "农民影视",
-            "type": 3,
-            "api": "csp_wwgz",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/wwgz.js"
-        },
-        {
             "name": "七色番動漫",
             "type": 3,
             "api": "csp_7sefun",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/7sefun.js"
         },
         {
-            "name": "山有木兮",
-            "type": 3,
-            "api": "csp_symx",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/symx.js"
-        }
+      "name": "路漫漫",
+      "type": 3,
+      "api": "csp_lmm85",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/lmm85.js"
+    },
+        {
+      "name": "ppnix",
+      "type": 3,
+      "api": "csp_ppnix",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/ppnix.js"
+    },
+    {
+      "name": "河馬短劇",
+      "type": 3,
+      "api": "csp_kuaikaw",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/kuaikaw.js"
+    },
+    {
+      "name": "壹影視",
+      "type": 3,
+      "api": "csp_yiys",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/yiys.js"
+    },
+        {
+      "name": "永樂視頻",
+      "type": 3,
+      "api": "csp_ylys",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/ylys.js"
+    }
     ]
 }
